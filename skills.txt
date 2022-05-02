@@ -1,0 +1,9 @@
+Skills: 
+GIT
+Postman
+Charles
+Fiddler
+Android_Studio
+QA_Theory
+Basic_JS
+

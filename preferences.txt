@@ -1,0 +1,5 @@
+favourite_movie: Interstellar
+favourite_TVshow': Friends
+favourite_food': eggs
+favourite_season: summer
+country_to_visit: Iceland

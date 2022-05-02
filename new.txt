@@ -1,0 +1,6 @@
+name: Diana 
+surname: Ezhova
+age: 30
+pets: 1
+desired salary: 3 000 $
+

@@ -1,0 +1,10 @@
+Summary: The price of the product in the cart is displayed without specifying the currency
+
+Steps:
+1. open the site 
+2. click on the name product Samsung galaxy s6 
+3. click the button “add to cart” 
+4. to go to the shopping cart click “cart” at the top of the page 
+
+Actual result: the price of the product is displayed without specifying currency 
+Expected result: the price of the product is displayed with specifying currency USD 
